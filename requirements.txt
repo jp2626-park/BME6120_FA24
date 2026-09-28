@@ -1,4 +1,4 @@
-scanpy==1.10.3
+scanpy>=1.10.4
 louvain
 python-igraph
 ipywidgets
