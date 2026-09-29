@@ -1,4 +1,4 @@
-scanpy>=1.10.4
+scanpy==1.10.3
 louvain
 python-igraph
 ipywidgets
@@ -10,4 +10,4 @@ scikit-learn
 jupyter
 anndata==0.10.4
 scipy
-harmonypy
+harmonypy==0.0.10
